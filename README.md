@@ -65,6 +65,7 @@ Apollo: https://github.com/apollohackintosh/Dell-XPS-L502X-Catalina
 # Want to help?
 
 Send me any suggestions or queries to jkbuha@protonmail.com
+
 Or else buy me a beer at BTC: 18dPsYnDLjsudFthCmShF9HKy9vAj8Ghfd
 
 =)
