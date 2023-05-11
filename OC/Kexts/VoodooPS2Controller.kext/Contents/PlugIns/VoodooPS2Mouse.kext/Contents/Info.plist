@@ -59,7 +59,7 @@
 				<key>Default</key>
 				<dict>
 					<key>ActLikeTrackpad</key>
-					<false/>
+					<true/>
 					<key>ButtonCount</key>
 					<integer>3</integer>
 					<key>DefaultResolution</key>
@@ -131,7 +131,7 @@
 			<key>ProductID</key>
 			<integer>547</integer>
 			<key>USBMouseStopsTrackpad</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>VendorID</key>
 			<integer>1452</integer>
 		</dict>
