@@ -163,10 +163,12 @@
 			<dict>
 				<key>Default</key>
 				<dict>
+					<key>Clicking</key>
+					<integer>1</integer>
 					<key>Cypress1FingerMaxTapTime</key>
 					<integer>200</integer>
 					<key>Cypress2FingerFiltering</key>
-					<integer>1</integer>
+					<integer>0</integer>
 					<key>Cypress2FingerMaxTapTime</key>
 					<integer>150</integer>
 					<key>Cypress3FingerFiltering</key>
@@ -186,21 +188,23 @@
 					<key>CypressDragPressureAverage</key>
 					<integer>85</integer>
 					<key>CypressFiveFingerScreenLock</key>
-					<false/>
+					<true/>
 					<key>CypressFiveFingerSleep</key>
-					<false/>
+					<true/>
 					<key>CypressFourFingerHorizSwipeGesture</key>
-					<false/>
+					<true/>
 					<key>CypressFourFingerVertSwipeGesture</key>
-					<false/>
+					<true/>
 					<key>CypressPressureFiltering</key>
 					<integer>20</integer>
 					<key>CypressThreeFingerDrag</key>
-					<false/>
+					<true/>
 					<key>CypressTwoFingerRightClick</key>
 					<true/>
 					<key>DisableDevice</key>
 					<false/>
+					<key>TrackpadScroll</key>
+					<integer>1</integer>
 				</dict>
 			</dict>
 			<key>ProductID</key>
@@ -347,27 +351,6 @@
 					<integer>300000000</integer>
 					<key>ClickPadTrackBoth</key>
 					<true/>
-					<key>Darwin 16.x</key>
-					<dict>
-						<key>ApplePreferenceCapability</key>
-						<true/>
-						<key>ApplePreferenceIdentifier</key>
-						<string>com.apple.AppleMultitouchTrackpad</string>
-						<key>MT Built-in</key>
-						<true/>
-						<key>MTHIDDevice</key>
-						<true/>
-						<key>SupportsGestureScrolling</key>
-						<true/>
-						<key>TrackpadEmbedded</key>
-						<true/>
-						<key>TrackpadFourFingerGestures</key>
-						<false/>
-						<key>TrackpadSecondaryClickCorners</key>
-						<true/>
-						<key>TrackpadThreeFingerDrag</key>
-						<false/>
-					</dict>
 					<key>DisableDevice</key>
 					<false/>
 					<key>DisableLEDUpdating</key>
