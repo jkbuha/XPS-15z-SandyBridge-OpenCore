@@ -1,12 +1,12 @@
-# Dell XPS 15z (L511z) Sandy Bridge macOS Monterey with OpenCore 0.9.1
+# Dell XPS 15z (L511z) Sandy Bridge macOS Monterey with OpenCore 1.0.1
 
 ![hackintosh](./screenshot/screen.jpg)
 
 # Details
 
-| OpenCore Version | 0.9.1 |
+| OpenCore Version | 1.0.1 |
 | --- | --- |
-| macOS Version | 12.6.3 (Monterey) |
+| macOS Version | 12.7.6 (Monterey) |
 | SMSBios | MacBookPro8,2 |
 
 # Hardware Specifications
@@ -66,6 +66,10 @@ Apollo: https://github.com/apollohackintosh/Dell-XPS-L502X-Catalina
 
 Send me any suggestions or queries to jkbuha@protonmail.com
 
-Or else buy me a beer at BTC: 18dPsYnDLjsudFthCmShF9HKy9vAj8Ghfd
+Or else buy me a beer
+
+Paypal (https://paypal.me/jkbuha) 
+
+BTC: bc1qjuy6hy5shqqdnyzzcjlc2h4ua47gpugphuxdae
 
 =)
