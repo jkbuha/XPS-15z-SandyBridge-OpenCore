@@ -1,10 +1,10 @@
-# Dell XPS 15z (L511z) Sandy Bridge macOS Monterey with OpenCore 1.0.1
+# Dell XPS 15z (L511z) Sandy Bridge macOS Monterey with OpenCore 1.0.3
 
 ![hackintosh](./screenshot/screen.jpg)
 
 # Details
 
-| OpenCore Version | 1.0.1 |
+| OpenCore Version | 1.0.3 |
 | --- | --- |
 | macOS Version | 12.7.6 (Monterey) |
 | SMSBios | MacBookPro8,2 |
